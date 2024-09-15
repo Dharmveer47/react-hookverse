@@ -1,4 +1,4 @@
 import { useDebounce } from "./useDebounce";
 import { useTimeout } from "./useTimeout";
-
-export { useDebounce, useTimeout };
+import { useUpdateEffect } from "./useUpdateEffect";
+export { useDebounce, useTimeout, useUpdateEffect };

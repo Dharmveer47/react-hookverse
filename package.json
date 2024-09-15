@@ -1,6 +1,6 @@
 {
   "name": "react-hookverse",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "description": "A collection of essential React hooks for common development tasks. This library provides well-tested and documented hooks to simplify state management, side effects, context, and more.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
