@@ -2,14 +2,19 @@
   "name": "react-hookverse",
   "version": "1.7.0",
   "description": "A collection of essential React hooks for common development tasks. This library provides well-tested and documented hooks to simplify state management, side effects, context, and more.",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "build": "babel src --out-dir dist",
     "start": "react-scripts start",
     "build-react": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharmveer47/react-hookverse"
   },
   "dependencies": {
     "@babel/cli": "^7.25.6",
